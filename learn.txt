@@ -1,0 +1,2 @@
+learning how to work on git platform
+and also trying git bash app
